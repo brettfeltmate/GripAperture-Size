@@ -75,7 +75,6 @@ cm_medium = 6
 cm_large = 8
 cm_brim = 2
 cm_offset = 20
-goalzone_padding = 2
 
 # TODO: Make this relative to rt
 reach_window_post_go_signal = 1000
