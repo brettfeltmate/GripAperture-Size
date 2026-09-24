@@ -70,14 +70,12 @@ append_hostname = False
 #########################################
 task_order = ['GBYK', 'KBYG']
 trials_per_practice_block = 20
-cm_wide = 5
-cm_tall = 9
-cm_brim = 1
+cm_small = 4
+cm_medium = 6
+cm_large = 8
+cm_brim = 2
 cm_offset = 20
-goalzone_padding = {
-    'side': 8,  # finger width (ish)
-    'bottom': 8,  # ballpark 1/2 hand length
-}
+goalzone_padding = 2
 
 # TODO: Make this relative to rt
 reach_window_post_go_signal = 1000
